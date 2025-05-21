@@ -1,17 +1,5 @@
 # Accident Severity Prediction Model
 
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: DIVIN DINESH
-
-*INTERN ID*: CT6WHGK
-
-*DOMINE*: DATA SCIENCE
-
-*DURATION*: 6 WEEKS
-
-*MENTOR*: NEELA SANTOSH
-
 The Accident Severity Prediction Model aims to classify traffic accidents into different severity levels using various contributing factors. By accurately predicting the severity, this model can aid resource allocation, emergency response planning, and safety improvements.
 
 ### Key Features:
